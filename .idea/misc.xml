@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Ro'aa/AndroidStudioProjects/FinalTask/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ro'aa/AndroidStudioProjects/FinalTask/app/src/main/res/layout/card_listitem.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ro'aa/AndroidStudioProjects/FinalTask/app/src/main/res/layout/fragment_products_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ro'aa/AndroidStudioProjects/FinalTask/app/src/main/res/layout/fragment_sign_in.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ro'aa/AndroidStudioProjects/FinalTask/app/src/main/res/layout/fragment_tab_one.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ro'aa/AndroidStudioProjects/FinalTask/app/src/main/res/layout/fragment_tab_three.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ro'aa/AndroidStudioProjects/FinalTask/app/src/main/res/layout/fragment_tab_two.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Final Task</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="signin">SignIn</string>
+    <string name="product_name">product name</string>
+    <string name="product_price">product price</string>
+</resources>
